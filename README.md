@@ -42,7 +42,10 @@ Currently seeking a remote junior flutter developer role.
 [TODO App](https://github.com/ALIxAHMAD/todo_app), [Notes App](https://github.com/ALIxAHMAD/notes_app) , [Web Scraper](https://github.com/ALIxAHMAD/medium_scraper)
 
 ---
-
+## Languages
+- English (intermediate, improving)
+- Arabic (native)
+---
 
 ## Connect With Me
 - Email: ali0x0ahmad@gmail.com
