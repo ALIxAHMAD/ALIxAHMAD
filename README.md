@@ -38,6 +38,11 @@ Currently seeking a remote junior flutter developer role.
 - User authentication, one-to-one chat, and online/offline status.  
 - Integrated with backend via gRPC and Centrifugo for real-time messaging.
 
+### [Habit Tracker](https://github.com/ALIxAHMAD/habit_tracker)
+- Lightweight, distraction-free Flutter app to track daily habits.
+- Built with Riverpod + StateNotifier, Drift (SQLite), and Clean Architecture.
+- Features daily progress bar, scrollable date picker, and smooth animations.
+
 ### Other projects like:
 [TODO App](https://github.com/ALIxAHMAD/todo_app), [Notes App](https://github.com/ALIxAHMAD/notes_app) , [Web Scraper](https://github.com/ALIxAHMAD/medium_scraper)
 
